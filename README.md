@@ -5,4 +5,6 @@ The idea is to get a test environment for python scripts and functions.
 
 ## Testing Things Here
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JonathanHung95/WorkBinder/master)
-Wanted to try to set up a cloud based python environment to test scripts in.
+Might be able to launch the environment from the button above.
+
+The environment can be launched from here: https://gke.mybinder.org/
