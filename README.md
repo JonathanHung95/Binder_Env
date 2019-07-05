@@ -1,5 +1,7 @@
 # WorkBinder
-Setup a python environment for Jupyter Binders in GitHub to be able to run python scripts as necessary.  Please note, files with personal information can be uploaded here.  That's bad and you should feel bad.
+Settings to launch a Jupyter Binder environment on the cloud.  Contains packages necessary for working with data, among other things.  
+
+The idea is to get a test environment for python scripts and functions.
 
 ## Testing Things Here
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JonathanHung95/WorkBinder/master)
