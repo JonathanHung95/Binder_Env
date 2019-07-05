@@ -11,3 +11,8 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - tqdm
+  - sklearn
+  - similarity
+  - string
+  - strsim
