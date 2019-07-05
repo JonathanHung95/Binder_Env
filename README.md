@@ -5,6 +5,6 @@ The idea is to get a test environment for python scripts and functions.
 
 ## Testing Things Here
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JonathanHung95/WorkBinder/master)
-Might be able to launch the environment from the button above.
+Might be able to launch the environment from the button here.
 
-The environment can be launched from here: https://gke.mybinder.org/
+Otherwsie, the environment can be launched from here: https://gke.mybinder.org/
